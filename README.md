@@ -1,2 +1,2 @@
 # High-Level-Design
-High Level Design User Cases.
+High Level Design Use Cases.
